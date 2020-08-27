@@ -1,112 +1,127 @@
-- __Leetcode__
-   - __Array__
-     - __1 \- Easy__
-       - [1. Two Sum.py](Array/1 - Easy/1.%20Two%20Sum.py)
-       - [1002. Find Common Characters.py.py](Array/1 - Easy/1002.%20Find%20Common%20Characters.py.py)
-       - [1051. Height Checker.py](Array/1 - Easy/1051.%20Height%20Checker.py)
-       - [1122. Relative Sort Array.py](Array/1 - Easy/1122.%20Relative%20Sort%20Array.py)
-       - [1252. Cells with Odd Values in a Matrix.py](Array/1 - Easy/1252.%20Cells%20with%20Odd%20Values%20in%20a%20Matrix.py)
-       - [1266. Minimum Time Visiting All Points.py](Array/1 - Easy/1266.%20Minimum%20Time%20Visiting%20All%20Points.py)
-       - [1295. Find Numbers with Even Number of Digits.py](Array/1 - Easy/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py)
-       - [1299. Replace Elements with Greatest Element on Right Side.py](Array/1 - Easy/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py)
-       - [1304. Find N Unique Integers Sum up to Zero.py](Array/1 - Easy/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py)
-       - [1313. Decompress Run\-Length Encoded List.py](Array/1 - Easy/1313.%20Decompress%20Run-Length%20Encoded%20List.py)
-       - [1337. The K Weakest Rows in a Matrix.py](Array/1 - Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)
-       - [1351. Count Negative Numbers in a Sorted Matrix.py](Array/1 - Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)
-       - [1365. How Many Numbers Are Smaller Than the Current Number.py](Array/1 - Easy/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.py)
-       - [1380. Lucky Numbers in a Matrix.py](Array/1 - Easy/1380.%20Lucky%20Numbers%20in%20a%20Matrix.py)
-       - [1389. Create Target Array in the Given Order.py](Array/1 - Easy/1389.%20Create%20Target%20Array%20in%20the%20Given%20Order.py)
-       - [1431. Kids With the Greatest Number of Candies.py](Array/1 - Easy/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py)
-       - [1450. Number of Students Doing Homework at a Given Time.py](Array/1 - Easy/1450.%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py)
-       - [1460. Make Two Arrays Equal by Reversing Sub\-arrays.py](Array/1 - Easy/1460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Sub-arrays.py)
-       - [1464. Maximum Product of Two Elements in an Array.py](Array/1 - Easy/1464.%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py)
-       - [1470. Shuffle the Array.py](Array/1 - Easy/1470.%20Shuffle%20the%20Array.py)
-       - [1475. Final Prices With a Special Discount in a Shop.py](Array/1 - Easy/1475.%20Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop.py)
-       - [1480. Running Sum of 1d Array.py](Array/1 - Easy/1480.%20Running%20Sum%20of%201d%20Array.py)
-       - [1486. XOR Operation in an Array.py](Array/1 - Easy/1486.%20XOR%20Operation%20in%20an%20Array.py)
-       - [1491. Average Salary Excluding the Minimum and Maximum Salary.py](Array/1 - Easy/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)
-       - [1502. Can Make Arithmetic Progression From Sequence.py](Array/1 - Easy/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py)
-       - [1512. Number of Good Pairs.py](Array/1 - Easy/1512.%20Number%20of%20Good%20Pairs.py)
-       - [561. Array Partition I.py](Array/1 - Easy/561.%20Array%20Partition%20I.py)
-       - [832. Flipping an Image.py](Array/1 - Easy/832.%20Flipping%20an%20Image.py)
-       - [905. Sort Array By Parity.py](Array/1 - Easy/905.%20Sort%20Array%20By%20Parity.py)
-       - [922. Sort Array By Parity II.py](Array/1 - Easy/922.%20Sort%20Array%20By%20Parity%20II.py)
-       - [977. Squares of a Sorted Array.py](Array/1 - Easy/977.%20Squares%20of%20a%20Sorted%20Array.py)
-     - __2 \- Medium__
-       - [1222. Queens That Can Attack the King.py](Array/2 - Medium/1222.%20Queens%20That%20Can%20Attack%20the%20King.py)
-       - [1277. Count Square Submatrices with All Ones.py](Array/2 - Medium/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.py)
-       - [1329. Sort the Matrix Diagonally.py](Array/2 - Medium/1329.%20Sort%20the%20Matrix%20Diagonally.py)
-       - [1338. Reduce Array Size to The Half.py](Array/2 - Medium/1338.%20Reduce%20Array%20Size%20to%20The%20Half.py)
-       - [1343. Number of Sub\-arrays of Size K and Average Greater than or Equal to Threshold.py](Array/2 - Medium/1343.%20Number%20of%20Sub-arrays%20of%20Size%20K%20and%20Average%20Greater%20than%20or%20Equal%20to%20Threshold.py)
-       - [1395. Count Number of Teams.py](Array/2 - Medium/1395.%20Count%20Number%20of%20Teams.py)
-       - [1409. Queries on a Permutation With Key.py](Array/2 - Medium/1409.%20Queries%20on%20a%20Permutation%20With%20Key.py)
-       - [1437. Check If All 1's Are at Least Length K Places Away.py](Array/2 - Medium/1437.%20Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away.py)
-       - [1442. Count Triplets That Can Form Two Arrays of Equal XOR.py](Array/2 - Medium/1442.%20Count%20Triplets%20That%20Can%20Form%20Two%20Arrays%20of%20Equal%20XOR.py)
-       - [1476. Subrectangle Queries.py](Array/2 - Medium/1476.%20Subrectangle%20Queries.py)
-       - [1508. Range Sum of Sorted Subarray Sums.py](Array/2 - Medium/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.py)
-       - [442. Find All Duplicates in an Array.py](Array/2 - Medium/442.%20Find%20All%20Duplicates%20in%20an%20Array.py)
-       - [950. Reveal Cards In Increasing Order.py](Array/2 - Medium/950.%20Reveal%20Cards%20In%20Increasing%20Order.py)
-       - [969. Pancake Sorting.py](Array/2 - Medium/969.%20Pancake%20Sorting.py)
-     - __3 \- Hard__
-       - [128. Longest Consecutive Sequence.py](Array/3 - Hard/128.%20Longest%20Consecutive%20Sequence.py)
-       - [154. Find Minimum in Rotated Sorted Array II.py](Array/3 - Hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py)
-       - [41. First Missing Positive.py](Array/3 - Hard/41.%20First%20Missing%20Positive.py)
-       - [42. Trapping Rain Water.py](Array/3 - Hard/42.%20Trapping%20Rain%20Water.py)
-   - __Math__
-     - __2 \- Medium__
-       - [1390. Four Divisors.py](Math/2 - Medium/1390.%20Four%20Divisors.py)
-   - [README.md](README.md)
-   - __Sorting, Binary Search__
-     - __1 \- Easy__
-       - [1030. Matrix Cells in Distance Order.py](Sorting, Binary Search/1 - Easy/1030.%20Matrix%20Cells%20in%20Distance%20Order.py)
-       - [1122. Relative Sort Array.py](Sorting, Binary Search/1 - Easy/1122.%20Relative%20Sort%20Array.py)
-       - [1237. Find Positive Integer Solution for a Given Equation.py](Sorting, Binary Search/1 - Easy/1237.%20Find%20Positive%20Integer%20Solution%20for%20a%20Given%20Equation.py)
-       - [1337. The K Weakest Rows in a Matrix.py](Sorting, Binary Search/1 - Easy/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.py)
-       - [1351. Count Negative Numbers in a Sorted Matrix.py](Sorting, Binary Search/1 - Easy/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.py)
-       - [1356. Sort Integers by The Number of 1 Bits.py](Sorting, Binary Search/1 - Easy/1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.py)
-       - [1370. Increasing Decreasing String.py](Sorting, Binary Search/1 - Easy/1370.%20Increasing%20Decreasing%20String.py)
-       - [1403. Minimum Subsequence in Non\-Increasing Order.py](Sorting, Binary Search/1 - Easy/1403.%20Minimum%20Subsequence%20in%20Non-Increasing%20Order.py)
-       - [1491. Average Salary Excluding the Minimum and Maximum Salary.py](Sorting, Binary Search/1 - Easy/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py)
-       - [1502. Can Make Arithmetic Progression From Sequence.py](Sorting, Binary Search/1 - Easy/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py)
-       - [1528. Shuffle String.py](Sorting, Binary Search/1 - Easy/1528.%20Shuffle%20String.py)
-       - [167. Two Sum II \- Input array is sorted.py](Sorting, Binary Search/1 - Easy/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)
-       - [242. Valid Anagram.py](Sorting, Binary Search/1 - Easy/242.%20Valid%20Anagram.py)
-       - [278. First Bad Version.PY](Sorting, Binary Search/1 - Easy/278.%20First%20Bad%20Version.PY)
-       - [349. Intersection of Two Arrays.py](Sorting, Binary Search/1 - Easy/349.%20Intersection%20of%20Two%20Arrays.py)
-       - [35. Search Insert Position.py](Sorting, Binary Search/1 - Easy/35.%20Search%20Insert%20Position.py)
-       - [350. Intersection of Two Arrays II.py](Sorting, Binary Search/1 - Easy/350.%20Intersection%20of%20Two%20Arrays%20II.py)
-       - [367. Valid Perfect Square.py](Sorting, Binary Search/1 - Easy/367.%20Valid%20Perfect%20Square.py)
-       - [374. Guess Number Higher or Lower.py](Sorting, Binary Search/1 - Easy/374.%20Guess%20Number%20Higher%20or%20Lower.py)
-       - [392. Is Subsequence.py](Sorting, Binary Search/1 - Easy/392.%20Is%20Subsequence.py)
-       - [441. Arranging Coins.py](Sorting, Binary Search/1 - Easy/441.%20Arranging%20Coins.py)
-       - [69. Sqrt(x).py](Sorting, Binary Search/1 - Easy/69.%20Sqrt(x).py)
-       - [704. Binary Search.py](Sorting, Binary Search/1 - Easy/704.%20Binary%20Search.py)
-       - [744. Find Smallest Letter Greater Than Target.py](Sorting, Binary Search/1 - Easy/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py)
-       - [852. Peak Index in a Mountain Array.py](Sorting, Binary Search/1 - Easy/852.%20Peak%20Index%20in%20a%20Mountain%20Array.py)
-       - [922. Sort Array By Parity II.py](Sorting, Binary Search/1 - Easy/922.%20Sort%20Array%20By%20Parity%20II.py)
-       - [976. Largest Perimeter Triangle.py](Sorting, Binary Search/1 - Easy/976.%20Largest%20Perimeter%20Triangle.py)
-     - __2 \- Medium__
-       - [1011. Capacity To Ship Packages Within D Days.py](Sorting, Binary Search/2 - Medium/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.py)
-       - [1201. Ugly Number III.py](Sorting, Binary Search/2 - Medium/1201.%20Ugly%20Number%20III.py)
-       - [1283. Find the Smallest Divisor Given a Threshold.py](Sorting, Binary Search/2 - Medium/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.py)
-       - [1329. Sort the Matrix Diagonally.py](Sorting, Binary Search/2 - Medium/1329.%20Sort%20the%20Matrix%20Diagonally.py)
-       - [1482. Minimum Number of Days to Make m Bouquets.py](Sorting, Binary Search/2 - Medium/1482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets.py)
-       - [1508. Range Sum of Sorted Subarray Sums.py](Sorting, Binary Search/2 - Medium/1508.%20Range%20Sum%20of%20Sorted%20Subarray%20Sums.py)
-       - [153. Find Minimum in Rotated Sorted Array.py](Sorting, Binary Search/2 - Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py)
-       - [162. Find Peak Element.py](Sorting, Binary Search/2 - Medium/162.%20Find%20Peak%20Element.py)
-       - [287. Find the Duplicate Number.py](Sorting, Binary Search/2 - Medium/287.%20Find%20the%20Duplicate%20Number.py)
-       - [33. Search in Rotated Sorted Array.py](Sorting, Binary Search/2 - Medium/33.%20Search%20in%20Rotated%20Sorted%20Array.py)
-       - [34. Find First and Last Position of Element in Sorted Array.py](Sorting, Binary Search/2 - Medium/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)
-       - [378. Kth Smallest Element in a Sorted Matrix.py](Sorting, Binary Search/2 - Medium/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.py)
-       - [50. Pow(x, n).py](Sorting, Binary Search/2 - Medium/50.%20Pow(x%2C%20n).py)
-       - [658. Find K Closest Elements.py](Sorting, Binary Search/2 - Medium/658.%20Find%20K%20Closest%20Elements.py)
-       - [875. Koko Eating Bananas.py](Sorting, Binary Search/2 - Medium/875.%20Koko%20Eating%20Bananas.py)
-       - [911. Online Election.py](Sorting, Binary Search/2 - Medium/911.%20Online%20Election.py)
-       - [969. Pancake Sorting.py](Sorting, Binary Search/2 - Medium/969.%20Pancake%20Sorting.py)
-     - __3 \- Hard__
-       - [154. Find Minimum in Rotated Sorted Array II.py](Sorting, Binary Search/3 - Hard/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.py)
-       - [4. Median of Two Sorted Arrays.py](Sorting, Binary Search/3 - Hard/4.%20Median%20of%20Two%20Sorted%20Arrays.py)
-       - [410. Split Array Largest Sum.py](Sorting, Binary Search/3 - Hard/410.%20Split%20Array%20Largest%20Sum.py)
-       - [668. Kth Smallest Number in Multiplication Table.py](Sorting, Binary Search/3 - Hard/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table.py)
-       - [719. Find K\-th Smallest Pair Distance.py](Sorting, Binary Search/3 - Hard/719.%20Find%20K-th%20Smallest%20Pair%20Distance.py)
+# Contents Tree
 
+```
+📦Leetcode
+ ┣ 📂Array
+ ┃ ┣ 📂1 - Easy
+ ┃ ┃ ┣ 📜1. Two Sum.py
+ ┃ ┃ ┣ 📜1002. Find Common Characters.py.py
+ ┃ ┃ ┣ 📜1051. Height Checker.py
+ ┃ ┃ ┣ 📜1122. Relative Sort Array.py
+ ┃ ┃ ┣ 📜1252. Cells with Odd Values in a Matrix.py
+ ┃ ┃ ┣ 📜1266. Minimum Time Visiting All Points.py
+ ┃ ┃ ┣ 📜1295. Find Numbers with Even Number of Digits.py
+ ┃ ┃ ┣ 📜1299. Replace Elements with Greatest Element on Right Side.py
+ ┃ ┃ ┣ 📜1304. Find N Unique Integers Sum up to Zero.py
+ ┃ ┃ ┣ 📜1313. Decompress Run-Length Encoded List.py
+ ┃ ┃ ┣ 📜1337. The K Weakest Rows in a Matrix.py
+ ┃ ┃ ┣ 📜1351. Count Negative Numbers in a Sorted Matrix.py
+ ┃ ┃ ┣ 📜1365. How Many Numbers Are Smaller Than the Current Number.py
+ ┃ ┃ ┣ 📜1380. Lucky Numbers in a Matrix.py
+ ┃ ┃ ┣ 📜1389. Create Target Array in the Given Order.py
+ ┃ ┃ ┣ 📜1431. Kids With the Greatest Number of Candies.py
+ ┃ ┃ ┣ 📜1450. Number of Students Doing Homework at a Given Time.py
+ ┃ ┃ ┣ 📜1460. Make Two Arrays Equal by Reversing Sub-arrays.py
+ ┃ ┃ ┣ 📜1464. Maximum Product of Two Elements in an Array.py
+ ┃ ┃ ┣ 📜1470. Shuffle the Array.py
+ ┃ ┃ ┣ 📜1475. Final Prices With a Special Discount in a Shop.py
+ ┃ ┃ ┣ 📜1480. Running Sum of 1d Array.py
+ ┃ ┃ ┣ 📜1486. XOR Operation in an Array.py
+ ┃ ┃ ┣ 📜1491. Average Salary Excluding the Minimum and Maximum Salary.py
+ ┃ ┃ ┣ 📜1502. Can Make Arithmetic Progression From Sequence.py
+ ┃ ┃ ┣ 📜1512. Number of Good Pairs.py
+ ┃ ┃ ┣ 📜561. Array Partition I.py
+ ┃ ┃ ┣ 📜832. Flipping an Image.py
+ ┃ ┃ ┣ 📜905. Sort Array By Parity.py
+ ┃ ┃ ┣ 📜922. Sort Array By Parity II.py
+ ┃ ┃ ┗ 📜977. Squares of a Sorted Array.py
+ ┃ ┣ 📂2 - Medium
+ ┃ ┃ ┣ 📜1222. Queens That Can Attack the King.py
+ ┃ ┃ ┣ 📜1277. Count Square Submatrices with All Ones.py
+ ┃ ┃ ┣ 📜1329. Sort the Matrix Diagonally.py
+ ┃ ┃ ┣ 📜1338. Reduce Array Size to The Half.py
+ ┃ ┃ ┣ 📜1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold.py
+ ┃ ┃ ┣ 📜1395. Count Number of Teams.py
+ ┃ ┃ ┣ 📜1409. Queries on a Permutation With Key.py
+ ┃ ┃ ┣ 📜1437. Check If All 1's Are at Least Length K Places Away.py
+ ┃ ┃ ┣ 📜1442. Count Triplets That Can Form Two Arrays of Equal XOR.py
+ ┃ ┃ ┣ 📜1476. Subrectangle Queries.py
+ ┃ ┃ ┣ 📜1508. Range Sum of Sorted Subarray Sums.py
+ ┃ ┃ ┣ 📜442. Find All Duplicates in an Array.py
+ ┃ ┃ ┣ 📜950. Reveal Cards In Increasing Order.py
+ ┃ ┃ ┗ 📜969. Pancake Sorting.py
+ ┃ ┗ 📂3 - Hard
+ ┃ ┃ ┣ 📜128. Longest Consecutive Sequence.py
+ ┃ ┃ ┣ 📜154. Find Minimum in Rotated Sorted Array II.py
+ ┃ ┃ ┣ 📜41. First Missing Positive.py
+ ┃ ┃ ┗ 📜42. Trapping Rain Water.py
+ ┣ 📂Math
+ ┃ ┗ 📂2 - Medium
+ ┃ ┃ ┗ 📜1390. Four Divisors.py
+ ┣ 📂Sorting, Binary Search
+ ┃ ┣ 📂1 - Easy
+ ┃ ┃ ┣ 📜1030. Matrix Cells in Distance Order.py
+ ┃ ┃ ┣ 📜1122. Relative Sort Array.py
+ ┃ ┃ ┣ 📜1237. Find Positive Integer Solution for a Given Equation.py
+ ┃ ┃ ┣ 📜1337. The K Weakest Rows in a Matrix.py
+ ┃ ┃ ┣ 📜1351. Count Negative Numbers in a Sorted Matrix.py
+ ┃ ┃ ┣ 📜1356. Sort Integers by The Number of 1 Bits.py
+ ┃ ┃ ┣ 📜1370. Increasing Decreasing String.py
+ ┃ ┃ ┣ 📜1403. Minimum Subsequence in Non-Increasing Order.py
+ ┃ ┃ ┣ 📜1491. Average Salary Excluding the Minimum and Maximum Salary.py
+ ┃ ┃ ┣ 📜1502. Can Make Arithmetic Progression From Sequence.py
+ ┃ ┃ ┣ 📜1528. Shuffle String.py
+ ┃ ┃ ┣ 📜167. Two Sum II - Input array is sorted.py
+ ┃ ┃ ┣ 📜242. Valid Anagram.py
+ ┃ ┃ ┣ 📜278. First Bad Version.PY
+ ┃ ┃ ┣ 📜349. Intersection of Two Arrays.py
+ ┃ ┃ ┣ 📜35. Search Insert Position.py
+ ┃ ┃ ┣ 📜350. Intersection of Two Arrays II.py
+ ┃ ┃ ┣ 📜367. Valid Perfect Square.py
+ ┃ ┃ ┣ 📜374. Guess Number Higher or Lower.py
+ ┃ ┃ ┣ 📜392. Is Subsequence.py
+ ┃ ┃ ┣ 📜441. Arranging Coins.py
+ ┃ ┃ ┣ 📜69. Sqrt(x).py
+ ┃ ┃ ┣ 📜704. Binary Search.py
+ ┃ ┃ ┣ 📜744. Find Smallest Letter Greater Than Target.py
+ ┃ ┃ ┣ 📜852. Peak Index in a Mountain Array.py
+ ┃ ┃ ┣ 📜922. Sort Array By Parity II.py
+ ┃ ┃ ┗ 📜976. Largest Perimeter Triangle.py
+ ┃ ┣ 📂2 - Medium
+ ┃ ┃ ┣ 📜1011. Capacity To Ship Packages Within D Days.py
+ ┃ ┃ ┣ 📜1201. Ugly Number III.py
+ ┃ ┃ ┣ 📜1283. Find the Smallest Divisor Given a Threshold.py
+ ┃ ┃ ┣ 📜1329. Sort the Matrix Diagonally.py
+ ┃ ┃ ┣ 📜1482. Minimum Number of Days to Make m Bouquets.py
+ ┃ ┃ ┣ 📜1508. Range Sum of Sorted Subarray Sums.py
+ ┃ ┃ ┣ 📜153. Find Minimum in Rotated Sorted Array.py
+ ┃ ┃ ┣ 📜162. Find Peak Element.py
+ ┃ ┃ ┣ 📜287. Find the Duplicate Number.py
+ ┃ ┃ ┣ 📜33. Search in Rotated Sorted Array.py
+ ┃ ┃ ┣ 📜34. Find First and Last Position of Element in Sorted Array.py
+ ┃ ┃ ┣ 📜378. Kth Smallest Element in a Sorted Matrix.py
+ ┃ ┃ ┣ 📜50. Pow(x, n).py
+ ┃ ┃ ┣ 📜658. Find K Closest Elements.py
+ ┃ ┃ ┣ 📜875. Koko Eating Bananas.py
+ ┃ ┃ ┣ 📜911. Online Election.py
+ ┃ ┃ ┗ 📜969. Pancake Sorting.py
+ ┃ ┗ 📂3 - Hard
+ ┃ ┃ ┣ 📜154. Find Minimum in Rotated Sorted Array II.py
+ ┃ ┃ ┣ 📜4. Median of Two Sorted Arrays.py
+ ┃ ┃ ┣ 📜410. Split Array Largest Sum.py
+ ┃ ┃ ┣ 📜668. Kth Smallest Number in Multiplication Table.py
+ ┃ ┃ ┗ 📜719. Find K-th Smallest Pair Distance.py
+ ┗ 📂Stacks, Queues
+ ┃ ┣ 📂1 - Easy
+ ┃ ┃ ┣ 📜1047. Remove All Adjacent Duplicates In String.py
+ ┃ ┃ ┣ 📜1441. Build an Array With Stack Operations.py
+ ┃ ┃ ┣ 📜1544. Make The String Great.py
+ ┃ ┃ ┣ 📜232. Implement Queue using Stacks.py
+ ┃ ┃ ┣ 📜496. Next Greater Element I.py
+ ┃ ┃ ┣ 📜682. Baseball Game.py
+ ┃ ┃ ┗ 📜844. Backspace String Compare.py
+ ┃ ┣ 📂2 - Medium
+ ┃ ┗ 📂3 - Hard
+ ┃ ┃ ┗ 📜42. Trapping Rain Water.py
+
+```
