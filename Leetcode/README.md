@@ -111,17 +111,38 @@
  ┃ ┃ ┣ 📜410. Split Array Largest Sum.py
  ┃ ┃ ┣ 📜668. Kth Smallest Number in Multiplication Table.py
  ┃ ┃ ┗ 📜719. Find K-th Smallest Pair Distance.py
- ┗ 📂Stacks, Queues
+ ┣ 📂Stacks, Queues
  ┃ ┣ 📂1 - Easy
+ ┃ ┃ ┣ 📜1021. Remove Outermost Parentheses.py
  ┃ ┃ ┣ 📜1047. Remove All Adjacent Duplicates In String.py
  ┃ ┃ ┣ 📜1441. Build an Array With Stack Operations.py
  ┃ ┃ ┣ 📜1544. Make The String Great.py
+ ┃ ┃ ┣ 📜155. Min Stack.py
+ ┃ ┃ ┣ 📜20. Valid Parentheses.py
+ ┃ ┃ ┣ 📜225. Implement Stack using Queues.py
  ┃ ┃ ┣ 📜232. Implement Queue using Stacks.py
  ┃ ┃ ┣ 📜496. Next Greater Element I.py
  ┃ ┃ ┣ 📜682. Baseball Game.py
- ┃ ┃ ┗ 📜844. Backspace String Compare.py
+ ┃ ┃ ┣ 📜844. Backspace String Compare.py
+ ┃ ┃ ┗ 📜933. Number of Recent Calls.py
  ┃ ┣ 📂2 - Medium
+ ┃ ┃ ┣ 📜1003. Check If Word Is Valid After Substitutions.py
+ ┃ ┃ ┣ 📜1019. Next Greater Node In Linked List.py
+ ┃ ┃ ┣ 📜1190. Reverse Substrings Between Each Pair of Parentheses.py
+ ┃ ┃ ┣ 📜1209. Remove All Adjacent Duplicates in String II.py
+ ┃ ┃ ┣ 📜1249. Minimum Remove to Make Valid Parentheses.py
+ ┃ ┃ ┣ 📜1381. Design a Stack With Increment Operation.py
+ ┃ ┃ ┣ 📜1410. HTML Entity Parser.py
+ ┃ ┃ ┣ 📜341. Flatten Nested List Iterator.py
+ ┃ ┃ ┣ 📜503. Next Greater Element II.py
+ ┃ ┃ ┣ 📜56. Merge Intervals.py
+ ┃ ┃ ┣ 📜641. Design Circular Deque.py
+ ┃ ┃ ┣ 📜71. Simplify Path.py
+ ┃ ┃ ┣ 📜739. Daily Temperatures.py
+ ┃ ┃ ┣ 📜856. Score of Parentheses.py
+ ┃ ┃ ┣ 📜921. Minimum Add to Make Parentheses Valid.py
+ ┃ ┃ ┗ 📜946. Validate Stack Sequences.py
  ┃ ┗ 📂3 - Hard
  ┃ ┃ ┗ 📜42. Trapping Rain Water.py
-
+ ┗ 📜README.md
 ```
