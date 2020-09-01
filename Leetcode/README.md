@@ -8,6 +8,8 @@
  ┃ ┃ ┣ 📜1002. Find Common Characters.py.py
  ┃ ┃ ┣ 📜1051. Height Checker.py
  ┃ ┃ ┣ 📜1122. Relative Sort Array.py
+ ┃ ┃ ┣ 📜118. Pascal's Triangle.py
+ ┃ ┃ ┣ 📜119. Pascal's Triangle II.py
  ┃ ┃ ┣ 📜1252. Cells with Odd Values in a Matrix.py
  ┃ ┃ ┣ 📜1266. Minimum Time Visiting All Points.py
  ┃ ┃ ┣ 📜1295. Find Numbers with Even Number of Digits.py
@@ -31,6 +33,7 @@
  ┃ ┃ ┣ 📜1502. Can Make Arithmetic Progression From Sequence.py
  ┃ ┃ ┣ 📜1512. Number of Good Pairs.py
  ┃ ┃ ┣ 📜561. Array Partition I.py
+ ┃ ┃ ┣ 📜605. Can Place Flowers.py
  ┃ ┃ ┣ 📜832. Flipping an Image.py
  ┃ ┃ ┣ 📜905. Sort Array By Parity.py
  ┃ ┃ ┣ 📜922. Sort Array By Parity II.py
@@ -55,6 +58,13 @@
  ┃ ┃ ┣ 📜154. Find Minimum in Rotated Sorted Array II.py
  ┃ ┃ ┣ 📜41. First Missing Positive.py
  ┃ ┃ ┗ 📜42. Trapping Rain Water.py
+ ┣ 📂LinkedList
+ ┃ ┣ 📂1 - Easy
+ ┃ ┃ ┣ 📜1290. Convert Binary Number in a Linked List to Integer.py
+ ┃ ┃ ┣ 📜206. Reverse Linked List.py
+ ┃ ┃ ┗ 📜234. Palindrome Linked List.py
+ ┃ ┗ 📂2 - Medium
+ ┃ ┃ ┗ 📜19. Remove Nth Node From End of List.py
  ┣ 📂Math
  ┃ ┗ 📂2 - Medium
  ┃ ┃ ┗ 📜1390. Four Divisors.py
@@ -144,5 +154,8 @@
  ┃ ┃ ┗ 📜946. Validate Stack Sequences.py
  ┃ ┗ 📂3 - Hard
  ┃ ┃ ┗ 📜42. Trapping Rain Water.py
+ ┣ 📂String
+ ┃ ┗ 📂1 - Easy
+ ┃ ┃ ┗ 📜859. Buddy Strings.py
  ┗ 📜README.md
 ```
