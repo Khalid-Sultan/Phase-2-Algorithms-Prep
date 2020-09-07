@@ -1,34 +1,37 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        #Solution 1
         return self.binary(nums1, nums2)
-        i = j = 0
-        ret = [0] * (len(nums1) + len(nums2))
-        ctr = 0
-        while i<len(nums1) and j<len(nums2):
-            if nums1[i]<nums2[j]:
-                ret[ctr] = nums1[i]
-                ctr += 1
-                i += 1
-            elif nums1[i]>nums2[j]:
-                ret[ctr] = nums2[j]
-                ctr += 1
-                j += 1
-            else:
-                ret[ctr] = nums1[i]
-                ctr += 1
-                ret[ctr] = nums2[j]
-                ctr += 1
-                i += 1
-                j += 1
-        while i<len(nums1):
-            ret[ctr] = nums1[i]
-            ctr += 1
-            i += 1
-        while j<len(nums2):
-            ret[ctr] = nums2[j]
-            ctr += 1
-            j += 1
-        return self.getMedian(ret, len(ret))
+
+        #Solution 2
+        # i = j = 0
+        # ret = [0] * (len(nums1) + len(nums2))
+        # ctr = 0
+        # while i<len(nums1) and j<len(nums2):
+        #     if nums1[i]<nums2[j]:
+        #         ret[ctr] = nums1[i]
+        #         ctr += 1
+        #         i += 1
+        #     elif nums1[i]>nums2[j]:
+        #         ret[ctr] = nums2[j]
+        #         ctr += 1
+        #         j += 1
+        #     else:
+        #         ret[ctr] = nums1[i]
+        #         ctr += 1
+        #         ret[ctr] = nums2[j]
+        #         ctr += 1
+        #         i += 1
+        #         j += 1
+        # while i<len(nums1):
+        #     ret[ctr] = nums1[i]
+        #     ctr += 1
+        #     i += 1
+        # while j<len(nums2):
+        #     ret[ctr] = nums2[j]
+        #     ctr += 1
+        #     j += 1
+        # return self.getMedian(ret, len(ret))
     def getMedian(self, nums, length) -> float:
         print(nums)
         if length<=1:
