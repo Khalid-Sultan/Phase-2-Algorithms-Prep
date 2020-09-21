@@ -1,5 +1,6 @@
 {
-  "output": "Contents.md",
+  "output": "README.md",
   "source": "./",
   "include": [".*"],
+  "exclude": [".idea"]
 }
