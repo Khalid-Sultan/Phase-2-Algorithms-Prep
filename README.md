@@ -83,6 +83,11 @@
      - 📂 __Depth\-First\_Search__
        - 📂 __3\_\-\_Hard__
          - 📄 [1377\_\-\_Frog\_Position\_After\_T\_Seconds.py](Leetcode/Depth-First_Search/3_-_Hard/1377_-_Frog_Position_After_T_Seconds.py)
+     - 📂 __Hashing__
+       - 📂 __2\_\-\_Medium__
+         - 📄 [299.\_Bulls\_and\_Cows.py](Leetcode/Hashing/2_-_Medium/299._Bulls_and_Cows.py)
+       - 📂 __3\_\-\_Hard__
+         - 📄 [895.\_Maximum\_Frequency\_Stack.py](Leetcode/Hashing/3_-_Hard/895._Maximum_Frequency_Stack.py)
      - 📂 __LinkedList__
        - 📂 __1\_\-\_Easy__
          - 📄 [1290.\_Convert\_Binary\_Number\_in\_a\_Linked\_List\_to\_Integer.py](Leetcode/LinkedList/1_-_Easy/1290._Convert_Binary_Number_in_a_Linked_List_to_Integer.py)
@@ -94,6 +99,9 @@
        - 📂 __2\_\-\_Medium__
          - 📄 [1390.\_Four\_Divisors.py](Leetcode/Math/2_-_Medium/1390._Four_Divisors.py)
          - 📄 [43.\_Multiply\_Strings.py](Leetcode/Math/2_-_Medium/43._Multiply_Strings.py)
+     - 📂 __Recursion__
+       - 📂 __2\_\-\_Medium__
+         - 📄 [46.\_Permutations.py](Leetcode/Recursion/2_-_Medium/46._Permutations.py)
      - 📂 __Sorting,\_Binary\_Search__
        - 📂 __1\_\-\_Easy__
          - 📄 [1030.\_Matrix\_Cells\_in\_Distance\_Order.py](Leetcode/Sorting,_Binary_Search/1_-_Easy/1030._Matrix_Cells_in_Distance_Order.py)
@@ -192,14 +200,16 @@
          - 📄 [859.\_Buddy\_Strings.py](Leetcode/String/1_-_Easy/859._Buddy_Strings.py)
      - 📂 __Tree__
        - 📂 __1\_\-\_Easy__
+         - 📄 [226.\_Invert\_Binary\_Tree.py](Leetcode/Tree/1_-_Easy/226._Invert_Binary_Tree.py)
          - 📄 [700.\_Search\_in\_a\_Binary\_Search\_Tree.py](Leetcode/Tree/1_-_Easy/700._Search_in_a_Binary_Search_Tree.py)
        - 📂 __2\_\-\_Medium__
+         - 📄 [103.\_Binary\_Tree\_Zigzag\_Level\_Order\_Traversal.py](Leetcode/Tree/2_-_Medium/103._Binary_Tree_Zigzag_Level_Order_Traversal.py)
+         - 📄 [113.\_Path\_Sum\_II.py](Leetcode/Tree/2_-_Medium/113._Path_Sum_II.py)
          - 📄 [1443.\_Minimum\_Time\_to\_Collect\_All\_Apples\_in\_a\_Tree.py](Leetcode/Tree/2_-_Medium/1443._Minimum_Time_to_Collect_All_Apples_in_a_Tree.py)
          - 📄 [173.\_Binary\_Search\_Tree\_Iterator.py](Leetcode/Tree/2_-_Medium/173._Binary_Search_Tree_Iterator.py)
          - 📄 [515.\_Find\_Largest\_Value\_in\_Each\_Tree\_Row.py](Leetcode/Tree/2_-_Medium/515._Find_Largest_Value_in_Each_Tree_Row.py)
      - 📂 __Tries__
        - 📂 __2\_\-\_Medium__
          - 📄 [211.\_Design\_Add\_and\_Search\_Words\_Data\_Structure.py](Leetcode/Tries/2_-_Medium/211._Design_Add_and_Search_Words_Data_Structure.py)
-         - 📄 [515.\_Find\_Largest Value\_in\_Each\_Tree\_Row.py](Leetcode/Tries/2_-_Medium/515._Find_Largest%20Value_in_Each_Tree_Row.py)
    - 📄 [README.md](README.md)
 
