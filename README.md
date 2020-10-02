@@ -211,6 +211,9 @@
      - 📂 __String__
        - 📂 __1\_\-\_Easy__
          - 📄 [859.\_Buddy\_Strings.py](Leetcode/String/1_-_Easy/859._Buddy_Strings.py)
+       - 📂 __2\_\-\_Medium__
+         - 📄 [1451.\_Rearrange\_Words\_in\_a\_Sentence.py](Leetcode/String/2_-_Medium/1451._Rearrange_Words_in_a_Sentence.py)
+         - 📄 [1452.\_People\_Whose\_List\_of\_Favorite\_Companies\_Is\_Not\_a\_Subset\_of\_Another\_List.py](Leetcode/String/2_-_Medium/1452._People_Whose_List_of_Favorite_Companies_Is_Not_a_Subset_of_Another_List.py)
      - 📂 __Tree__
        - 📂 __1\_\-\_Easy__
          - 📄 [111.\_Minimum\_Depth\_of\_Binary\_Tree.py](Leetcode/Tree/1_-_Easy/111._Minimum_Depth_of_Binary_Tree.py)
