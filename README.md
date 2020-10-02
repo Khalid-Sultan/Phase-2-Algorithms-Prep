@@ -15,6 +15,9 @@
      - 📂 __Sorting__
        - 📂 __2\_\-\_Medium__
          - 📄 [The\_Full\_Counting\_Sort.py](HackerRank/Sorting/2_-_Medium/The_Full_Counting_Sort.py)
+     - 📂 __Stacks__
+       - 📂 __3\_\-\_Hard__
+         - 📄 [Poisonous\_Plants.py](HackerRank/Stacks/3_-_Hard/Poisonous_Plants.py)
    - 📂 __Leetcode__
      - 📂 __Array__
        - 📂 __1\_\-\_Easy__
@@ -80,9 +83,16 @@
      - 📂 __Bit\_Manipulation__
        - 📂 __1\_\-\_Easy__
          - 📄 [401\_\-\_Binary\_Watch.py](Leetcode/Bit_Manipulation/1_-_Easy/401_-_Binary_Watch.py)
-     - 📂 __Depth\-First\_Search__
+     - 📂 __Depth\-First\_Search,Breadth\-First\_Search__
+       - 📂 __1\_\-\_Easy__
+         - 📄 [107.\_Binary\_Tree\_Level\_Order\_Traversal\_II.py](Leetcode/Depth-First_Search,Breadth-First_Search/1_-_Easy/107._Binary_Tree_Level_Order_Traversal_II.py)
+       - 📂 __2\_\-\_Medium__
+         - 📄 [130.\_Surrounded\_Regions.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/130._Surrounded_Regions.py)
+         - 📄 [133.\_Clone\_Graph.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/133._Clone_Graph.py)
+         - 📄 [752. Open\_the\_Lock.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/752.%20Open_the_Lock.py)
+         - 📄 [934.\_Shortest\_Bridge.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/934._Shortest_Bridge.py)
        - 📂 __3\_\-\_Hard__
-         - 📄 [1377\_\-\_Frog\_Position\_After\_T\_Seconds.py](Leetcode/Depth-First_Search/3_-_Hard/1377_-_Frog_Position_After_T_Seconds.py)
+         - 📄 [1377\_\-\_Frog\_Position\_After\_T\_Seconds.py](Leetcode/Depth-First_Search,Breadth-First_Search/3_-_Hard/1377_-_Frog_Position_After_T_Seconds.py)
      - 📂 __Hashing__
        - 📂 __2\_\-\_Medium__
          - 📄 [299.\_Bulls\_and\_Cows.py](Leetcode/Hashing/2_-_Medium/299._Bulls_and_Cows.py)
@@ -145,6 +155,7 @@
          - 📄 [179.\_Largest\_Number.py](Leetcode/Sorting,_Binary_Search/2_-_Medium/179._Largest_Number.py)
          - 📄 [220.\_Contains\_Duplicate\_III.py](Leetcode/Sorting,_Binary_Search/2_-_Medium/220._Contains_Duplicate_III.py)
          - 📄 [287.\_Find\_the\_Duplicate\_Number.py](Leetcode/Sorting,_Binary_Search/2_-_Medium/287._Find_the_Duplicate_Number.py)
+         - 📄 [29.\_Divide\_Two\_Integers.py](Leetcode/Sorting,_Binary_Search/2_-_Medium/29._Divide_Two_Integers.py)
          - 📄 [33.\_Search\_in\_Rotated\_Sorted\_Array.py](Leetcode/Sorting,_Binary_Search/2_-_Medium/33._Search_in_Rotated_Sorted_Array.py)
          - 📄 [34.\_Find\_First\_and\_Last\_Position\_of\_Element\_in\_Sorted\_Array.py](Leetcode/Sorting,_Binary_Search/2_-_Medium/34._Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
          - 📄 [378.\_Kth\_Smallest\_Element\_in\_a\_Sorted\_Matrix.py](Leetcode/Sorting,_Binary_Search/2_-_Medium/378._Kth_Smallest_Element_in_a_Sorted_Matrix.py)
@@ -200,6 +211,7 @@
          - 📄 [859.\_Buddy\_Strings.py](Leetcode/String/1_-_Easy/859._Buddy_Strings.py)
      - 📂 __Tree__
        - 📂 __1\_\-\_Easy__
+         - 📄 [111.\_Minimum\_Depth\_of\_Binary\_Tree.py](Leetcode/Tree/1_-_Easy/111._Minimum_Depth_of_Binary_Tree.py)
          - 📄 [226.\_Invert\_Binary\_Tree.py](Leetcode/Tree/1_-_Easy/226._Invert_Binary_Tree.py)
          - 📄 [700.\_Search\_in\_a\_Binary\_Search\_Tree.py](Leetcode/Tree/1_-_Easy/700._Search_in_a_Binary_Search_Tree.py)
        - 📂 __2\_\-\_Medium__
