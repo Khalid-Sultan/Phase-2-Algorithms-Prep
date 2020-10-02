@@ -210,6 +210,7 @@
          - 📄 [42.\_Trapping\_Rain\_Water.py](Leetcode/Stacks,_Queues/3_-_Hard/42._Trapping_Rain_Water.py)
      - 📂 __String__
        - 📂 __1\_\-\_Easy__
+         - 📄 [1408.\_String\_Matching\_in\_an\_Array.py](Leetcode/String/1_-_Easy/1408._String_Matching_in_an_Array.py)
          - 📄 [859.\_Buddy\_Strings.py](Leetcode/String/1_-_Easy/859._Buddy_Strings.py)
        - 📂 __2\_\-\_Medium__
          - 📄 [1451.\_Rearrange\_Words\_in\_a\_Sentence.py](Leetcode/String/2_-_Medium/1451._Rearrange_Words_in_a_Sentence.py)
