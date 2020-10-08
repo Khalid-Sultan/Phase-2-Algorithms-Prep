@@ -3,6 +3,9 @@
      - 📂 __Arrays__
        - 📂 __2\_\-\_Medium__
          - 📄 [Sparse\_Arrays.py](HackerRank/Arrays/2_-_Medium/Sparse_Arrays.py)
+     - 📂 __Heaps__
+       - 📂 __1\_\-\_Easy__
+         - 📄 [Jesse and Cookies.py](HackerRank/Heaps/1_-_Easy/Jesse%20and%20Cookies.py)
      - 📂 __Linked\_Lists__
        - 📂 __2\_\-\_Medium__
          - 📄 [Cycle\_Detection.py](HackerRank/Linked_Lists/2_-_Medium/Cycle_Detection.py)
@@ -94,12 +97,22 @@
          - 📄 [934.\_Shortest\_Bridge.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/934._Shortest_Bridge.py)
        - 📂 __3\_\-\_Hard__
          - 📄 [1377\_\-\_Frog\_Position\_After\_T\_Seconds.py](Leetcode/Depth-First_Search,Breadth-First_Search/3_-_Hard/1377_-_Frog_Position_After_T_Seconds.py)
+     - 📂 __Greedy__
+       - 📂 __2\_\-\_Medium__
+         - 📄 [1282.\_Group\_the\_People\_Given\_the\_Group\_Size\_They\_Belong\_To.py](Leetcode/Greedy/2_-_Medium/1282._Group_the_People_Given_the_Group_Size_They_Belong_To.py)
+         - 📄 [763.\_Partition\_Labels.py](Leetcode/Greedy/2_-_Medium/763._Partition_Labels.py)
      - 📂 __Hashing__
        - 📂 __2\_\-\_Medium__
          - 📄 [299.\_Bulls\_and\_Cows.py](Leetcode/Hashing/2_-_Medium/299._Bulls_and_Cows.py)
          - 📄 [355.\_Design\_Twitter.py](Leetcode/Hashing/2_-_Medium/355._Design_Twitter.py)
+         - 📄 [451.\_Sort\_Characters\_By\_Frequency.py](Leetcode/Hashing/2_-_Medium/451._Sort_Characters_By_Frequency.py)
        - 📂 __3\_\-\_Hard__
          - 📄 [895.\_Maximum\_Frequency\_Stack.py](Leetcode/Hashing/3_-_Hard/895._Maximum_Frequency_Stack.py)
+     - 📂 __Heaps__
+       - 📂 __1\_\-\_Easy__
+         - 📄 [1046.\_Last\_Stone\_Weight.py](Leetcode/Heaps/1_-_Easy/1046._Last_Stone_Weight.py)
+       - 📂 __2\_\-\_Medium__
+         - 📄 [215.\_Kth\_Largest\_Element\_in\_an\_Array.py](Leetcode/Heaps/2_-_Medium/215._Kth_Largest_Element_in_an_Array.py)
      - 📂 __LinkedList__
        - 📂 __1\_\-\_Easy__
          - 📄 [1290.\_Convert\_Binary\_Number\_in\_a\_Linked\_List\_to\_Integer.py](Leetcode/LinkedList/1_-_Easy/1290._Convert_Binary_Number_in_a_Linked_List_to_Integer.py)
