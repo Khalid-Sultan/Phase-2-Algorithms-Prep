@@ -56,6 +56,7 @@
          - 📄 [1502.\_Can\_Make\_Arithmetic\_Progression\_From\_Sequence.py](Leetcode/Array/1_-_Easy/1502._Can_Make_Arithmetic_Progression_From_Sequence.py)
          - 📄 [1512.\_Number\_of\_Good\_Pairs.py](Leetcode/Array/1_-_Easy/1512._Number_of_Good_Pairs.py)
          - 📄 [1560.\_Most\_Visited\_Sector\_in\_a\_Circular\_Track.py](Leetcode/Array/1_-_Easy/1560._Most_Visited_Sector_in_a_Circular_Track.py)
+         - 📄 [1608.\_Special\_Array\_With\_X\_Elements\_Greater\_Than\_or\_Equal\_X.py](Leetcode/Array/1_-_Easy/1608._Special_Array_With_X_Elements_Greater_Than_or_Equal_X.py)
          - 📄 [561.\_Array\_Partition\_I.py](Leetcode/Array/1_-_Easy/561._Array_Partition_I.py)
          - 📄 [605.\_Can\_Place\_Flowers.py](Leetcode/Array/1_-_Easy/605._Can_Place_Flowers.py)
          - 📄 [832.\_Flipping\_an\_Image.py](Leetcode/Array/1_-_Easy/832._Flipping_an_Image.py)
@@ -103,6 +104,9 @@
          - 📄 [934.\_Shortest\_Bridge.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/934._Shortest_Bridge.py)
        - 📂 __3\_\-\_Hard__
          - 📄 [1377\_\-\_Frog\_Position\_After\_T\_Seconds.py](Leetcode/Depth-First_Search,Breadth-First_Search/3_-_Hard/1377_-_Frog_Position_After_T_Seconds.py)
+     - 📂 __Design__
+       - 📂 __1\_\-\_Easy__
+         - 📄 [1603.\_Design\_Parking\_System.py](Leetcode/Design/1_-_Easy/1603._Design_Parking_System.py)
      - 📂 __Greedy__
        - 📂 __1\_\-\_Easy__
          - 📄 [455.\_Assign\_Cookies.py](Leetcode/Greedy/1_-_Easy/455._Assign_Cookies.py)
@@ -246,6 +250,7 @@
        - 📂 __2\_\-\_Medium__
          - 📄 [1451.\_Rearrange\_Words\_in\_a\_Sentence.py](Leetcode/String/2_-_Medium/1451._Rearrange_Words_in_a_Sentence.py)
          - 📄 [1452.\_People\_Whose\_List\_of\_Favorite\_Companies\_Is\_Not\_a\_Subset\_of\_Another\_List.py](Leetcode/String/2_-_Medium/1452._People_Whose_List_of_Favorite_Companies_Is_Not_a_Subset_of_Another_List.py)
+         - 📄 [1604.\_Alert\_Using\_Same\_Key\-Card\_Three\_or\_More\_Times\_in\_a\_One\_Hour\_Period.py](Leetcode/String/2_-_Medium/1604._Alert_Using_Same_Key-Card_Three_or_More_Times_in_a_One_Hour_Period.py)
      - 📂 __Tree__
        - 📂 __1\_\-\_Easy__
          - 📄 [111.\_Minimum\_Depth\_of\_Binary\_Tree.py](Leetcode/Tree/1_-_Easy/111._Minimum_Depth_of_Binary_Tree.py)
@@ -256,6 +261,7 @@
          - 📄 [103.\_Binary\_Tree\_Zigzag\_Level\_Order\_Traversal.py](Leetcode/Tree/2_-_Medium/103._Binary_Tree_Zigzag_Level_Order_Traversal.py)
          - 📄 [113.\_Path\_Sum\_II.py](Leetcode/Tree/2_-_Medium/113._Path_Sum_II.py)
          - 📄 [1443.\_Minimum\_Time\_to\_Collect\_All\_Apples\_in\_a\_Tree.py](Leetcode/Tree/2_-_Medium/1443._Minimum_Time_to_Collect_All_Apples_in_a_Tree.py)
+         - 📄 [1609.\_Even\_Odd\_Tree.py](Leetcode/Tree/2_-_Medium/1609._Even_Odd_Tree.py)
          - 📄 [173.\_Binary\_Search\_Tree\_Iterator.py](Leetcode/Tree/2_-_Medium/173._Binary_Search_Tree_Iterator.py)
          - 📄 [515.\_Find\_Largest\_Value\_in\_Each\_Tree\_Row.py](Leetcode/Tree/2_-_Medium/515._Find_Largest_Value_in_Each_Tree_Row.py)
          - 📄 [94.\_Binary\_Tree Inorder\_Traversal.py](Leetcode/Tree/2_-_Medium/94._Binary_Tree%20Inorder_Traversal.py)
