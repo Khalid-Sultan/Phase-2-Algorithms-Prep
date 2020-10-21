@@ -1,4 +1,5 @@
 - 📂 __Algorithms__
+   - 📄 [CODE\_OF\_CONDUCT.md](CODE_OF_CONDUCT.md)
    - 📂 __HackerRank__
      - 📂 __Arrays__
        - 📂 __2\_\-\_Medium__
@@ -21,6 +22,7 @@
      - 📂 __Stacks__
        - 📂 __3\_\-\_Hard__
          - 📄 [Poisonous\_Plants.py](HackerRank/Stacks/3_-_Hard/Poisonous_Plants.py)
+   - 📄 [LICENSE](LICENSE)
    - 📂 __Leetcode__
      - 📂 __Array__
        - 📂 __1\_\-\_Easy__
@@ -87,6 +89,10 @@
      - 📂 __Bit\_Manipulation__
        - 📂 __1\_\-\_Easy__
          - 📄 [401\_\-\_Binary\_Watch.py](Leetcode/Bit_Manipulation/1_-_Easy/401_-_Binary_Watch.py)
+     - 📂 __DP__
+       - 📂 __2\_\-\_Medium__
+         - 📄 [1423.\_Maximum\_Points\_You\_Can\_Obtain\_from\_Cards.py](Leetcode/DP/2_-_Medium/1423._Maximum_Points_You_Can_Obtain_from_Cards.py)
+         - 📄 [338.\_Counting\_Bits.py](Leetcode/DP/2_-_Medium/338._Counting_Bits.py)
      - 📂 __Depth\-First\_Search,Breadth\-First\_Search__
        - 📂 __1\_\-\_Easy__
          - 📄 [107.\_Binary\_Tree\_Level\_Order\_Traversal\_II.py](Leetcode/Depth-First_Search,Breadth-First_Search/1_-_Easy/107._Binary_Tree_Level_Order_Traversal_II.py)
@@ -98,9 +104,20 @@
        - 📂 __3\_\-\_Hard__
          - 📄 [1377\_\-\_Frog\_Position\_After\_T\_Seconds.py](Leetcode/Depth-First_Search,Breadth-First_Search/3_-_Hard/1377_-_Frog_Position_After_T_Seconds.py)
      - 📂 __Greedy__
+       - 📂 __1\_\-\_Easy__
+         - 📄 [455.\_Assign\_Cookies.py](Leetcode/Greedy/1_-_Easy/455._Assign_Cookies.py)
        - 📂 __2\_\-\_Medium__
          - 📄 [1282.\_Group\_the\_People\_Given\_the\_Group\_Size\_They\_Belong\_To.py](Leetcode/Greedy/2_-_Medium/1282._Group_the_People_Given_the_Group_Size_They_Belong_To.py)
+         - 📄 [1296.\_Divide\_Array\_in\_Sets\_of\_K\_Consecutive\_Numbers.py](Leetcode/Greedy/2_-_Medium/1296._Divide_Array_in_Sets_of_K_Consecutive_Numbers.py)
+         - 📄 [1605.\_Find\_Valid\_Matrix\_Given\_Row\_and\_Column\_Sums.py](Leetcode/Greedy/2_-_Medium/1605._Find_Valid_Matrix_Given_Row_and_Column_Sums.py)
+         - 📄 [402.\_Remove\_K\_Digits.py](Leetcode/Greedy/2_-_Medium/402._Remove_K_Digits.py)
+         - 📄 [406.\_Queue\_Reconstruction\_by\_Height.py](Leetcode/Greedy/2_-_Medium/406._Queue_Reconstruction_by_Height.py)
+         - 📄 [659.\_Split\_Array\_into\_Consecutive\_Subsequences.py](Leetcode/Greedy/2_-_Medium/659._Split_Array_into_Consecutive_Subsequences.py)
          - 📄 [763.\_Partition\_Labels.py](Leetcode/Greedy/2_-_Medium/763._Partition_Labels.py)
+         - 📄 [767.\_Reorganize\_String.py](Leetcode/Greedy/2_-_Medium/767._Reorganize_String.py)
+       - 📂 __3\_\-\_Hard__
+         - 📄 [45.\_Jump\_Game\_II.py](Leetcode/Greedy/3_-_Hard/45._Jump_Game_II.py)
+         - 📄 [85.\_Maximal\_Rectangle.py](Leetcode/Greedy/3_-_Hard/85._Maximal_Rectangle.py)
      - 📂 __Hashing__
        - 📂 __2\_\-\_Medium__
          - 📄 [299.\_Bulls\_and\_Cows.py](Leetcode/Hashing/2_-_Medium/299._Bulls_and_Cows.py)
@@ -124,6 +141,7 @@
        - 📂 __2\_\-\_Medium__
          - 📄 [1390.\_Four\_Divisors.py](Leetcode/Math/2_-_Medium/1390._Four_Divisors.py)
          - 📄 [43.\_Multiply\_Strings.py](Leetcode/Math/2_-_Medium/43._Multiply_Strings.py)
+         - 📄 [779.\_K\-th\_Symbol\_in\_Grammar.py](Leetcode/Math/2_-_Medium/779._K-th_Symbol_in_Grammar.py)
      - 📂 __Recursion__
        - 📂 __2\_\-\_Medium__
          - 📄 [46.\_Permutations.py](Leetcode/Recursion/2_-_Medium/46._Permutations.py)
