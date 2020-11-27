@@ -102,12 +102,18 @@
        - 📂 __1\_\-\_Easy__
          - 📄 [107.\_Binary\_Tree\_Level\_Order\_Traversal\_II.py](Leetcode/Depth-First_Search,Breadth-First_Search/1_-_Easy/107._Binary_Tree_Level_Order_Traversal_II.py)
        - 📂 __2\_\-\_Medium__
+         - 📄 [1020.\_Number\_of\_Enclaves.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/1020._Number_of_Enclaves.py)
          - 📄 [130.\_Surrounded\_Regions.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/130._Surrounded_Regions.py)
          - 📄 [133.\_Clone\_Graph.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/133._Clone_Graph.py)
+         - 📄 [22.\_Generate\_Parentheses.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/22._Generate_Parentheses.py)
+         - 📄 [39.\_Combination\_Sum.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/39._Combination_Sum.py)
+         - 📄 [46.\_Permutations.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/46._Permutations.py)
          - 📄 [752. Open\_the\_Lock.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/752.%20Open_the_Lock.py)
+         - 📄 [79.\_Word\_Search.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/79._Word_Search.py)
          - 📄 [934.\_Shortest\_Bridge.py](Leetcode/Depth-First_Search,Breadth-First_Search/2_-_Medium/934._Shortest_Bridge.py)
        - 📂 __3\_\-\_Hard__
          - 📄 [1377\_\-\_Frog\_Position\_After\_T\_Seconds.py](Leetcode/Depth-First_Search,Breadth-First_Search/3_-_Hard/1377_-_Frog_Position_After_T_Seconds.py)
+         - 📄 [51.\_N\-Queens.py](Leetcode/Depth-First_Search,Breadth-First_Search/3_-_Hard/51._N-Queens.py)
      - 📂 __Design__
        - 📂 __1\_\-\_Easy__
          - 📄 [1603.\_Design\_Parking\_System.py](Leetcode/Design/1_-_Easy/1603._Design_Parking_System.py)
