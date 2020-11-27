@@ -91,9 +91,13 @@
        - 📂 __1\_\-\_Easy__
          - 📄 [401\_\-\_Binary\_Watch.py](Leetcode/Bit_Manipulation/1_-_Easy/401_-_Binary_Watch.py)
      - 📂 __DP__
+       - 📂 __1\_\-\_Easy__
+         - 📄 [53.\_Maximum\_Subarray.py](Leetcode/DP/1_-_Easy/53._Maximum_Subarray.py)
        - 📂 __2\_\-\_Medium__
          - 📄 [1423.\_Maximum\_Points\_You\_Can\_Obtain\_from\_Cards.py](Leetcode/DP/2_-_Medium/1423._Maximum_Points_You_Can_Obtain_from_Cards.py)
          - 📄 [338.\_Counting\_Bits.py](Leetcode/DP/2_-_Medium/338._Counting_Bits.py)
+         - 📄 [523.\_Continuous\_Subarray\_Sum.py](Leetcode/DP/2_-_Medium/523._Continuous_Subarray_Sum.py)
+         - 📄 [91.\_Decode\_Ways.py](Leetcode/DP/2_-_Medium/91._Decode_Ways.py)
      - 📂 __Depth\-First\_Search,Breadth\-First\_Search__
        - 📂 __1\_\-\_Easy__
          - 📄 [107.\_Binary\_Tree\_Level\_Order\_Traversal\_II.py](Leetcode/Depth-First_Search,Breadth-First_Search/1_-_Easy/107._Binary_Tree_Level_Order_Traversal_II.py)
