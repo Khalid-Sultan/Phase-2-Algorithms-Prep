@@ -120,6 +120,7 @@
          - 📄 [1605.\_Find\_Valid\_Matrix\_Given\_Row\_and\_Column\_Sums.py](Leetcode/Greedy/2_-_Medium/1605._Find_Valid_Matrix_Given_Row_and_Column_Sums.py)
          - 📄 [402.\_Remove\_K\_Digits.py](Leetcode/Greedy/2_-_Medium/402._Remove_K_Digits.py)
          - 📄 [406.\_Queue\_Reconstruction\_by\_Height.py](Leetcode/Greedy/2_-_Medium/406._Queue_Reconstruction_by_Height.py)
+         - 📄 [621.\_Task\_Scheduler.py](Leetcode/Greedy/2_-_Medium/621._Task_Scheduler.py)
          - 📄 [659.\_Split\_Array\_into\_Consecutive\_Subsequences.py](Leetcode/Greedy/2_-_Medium/659._Split_Array_into_Consecutive_Subsequences.py)
          - 📄 [763.\_Partition\_Labels.py](Leetcode/Greedy/2_-_Medium/763._Partition_Labels.py)
          - 📄 [767.\_Reorganize\_String.py](Leetcode/Greedy/2_-_Medium/767._Reorganize_String.py)
@@ -127,6 +128,8 @@
          - 📄 [45.\_Jump\_Game\_II.py](Leetcode/Greedy/3_-_Hard/45._Jump_Game_II.py)
          - 📄 [85.\_Maximal\_Rectangle.py](Leetcode/Greedy/3_-_Hard/85._Maximal_Rectangle.py)
      - 📂 __Hashing__
+       - 📂 __1\_\-\_Easy__
+         - 📄 [953.\_Verifying\_an\_Alien\_Dictionary.py](Leetcode/Hashing/1_-_Easy/953._Verifying_an_Alien_Dictionary.py)
        - 📂 __2\_\-\_Medium__
          - 📄 [299.\_Bulls\_and\_Cows.py](Leetcode/Hashing/2_-_Medium/299._Bulls_and_Cows.py)
          - 📄 [355.\_Design\_Twitter.py](Leetcode/Hashing/2_-_Medium/355._Design_Twitter.py)
